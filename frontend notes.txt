@@ -1,0 +1,2 @@
+table style="width:100%"
+THIS IS used so that the table size changes according to the screen size.
